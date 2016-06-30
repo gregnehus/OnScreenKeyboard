@@ -1,6 +1,7 @@
 On Screen Keyboard
 ==================
-Usage syntax: OnScreenKeyboard.exe [path] 
+Usage: OnScreenKeyboard.exe [absolute path]
+
 The output will go right to the console.
 
 
